@@ -75,19 +75,19 @@ function generatePassword() {
   // Generate password
 
 
-  for (var i = 0; i < passwordLength; i++) {
+  //for (var i = 0; i < passwordLength; i++) {
 
-    password += randomInt(resultArray[i]);
+    
 
     //let resultArray = Math.floor(Math.random() * resultArray.length);
     //passwordText 
     //console.log(resultArray[i]);
 
-    console.log(password);
+    
     // Display password
     //return "Password";
 
-  }
+  
   
 }
 
