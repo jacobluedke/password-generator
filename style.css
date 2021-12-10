@@ -58,6 +58,10 @@ header {
   text-align: center;
 }
 
+.card-footer {
+  
+}
+
 .card-footer::before {
   content: " ";
   display: block;
