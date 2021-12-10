@@ -5,6 +5,8 @@ I at least got to the point where there are no errors in the console, but I coul
 I have a tutor session on Saturday so I will go over it with him so I can figure out the answer and how to unstuck myself with future assignments.
 
 
+--Update--
 
+I got the function to generate a single random character, but I couldn't get a function to create a password of the chosen length.
 
 
