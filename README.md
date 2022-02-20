@@ -23,7 +23,7 @@ To run the application enter node index.js into the terminal
 node index.js
 ## Questions
 
-Deployed Application Link 
+Deployed Application Link [https://jacobluedke.github.io/password-generator/](https://jacobluedke.github.io/password-generator/)
 
 GitHub Username: jacobluedke
 
