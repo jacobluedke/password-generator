@@ -1,12 +1,34 @@
-I got though most of the first steps pretty okay, but coming up with the function to go through and select the array 
-items was pretty difficult. I didn't know what I didn't know so it was difficult to find the answer I was looking for.
-I at least got to the point where there are no errors in the console, but I couldn't get every function to work as stated in the acceptance criteria.
 
-I have a tutor session on Saturday so I will go over it with him so I can figure out the answer and how to unstuck myself with future assignments.
+# Password Generator
+## Description
+This application lets the user choose which characters they would like to include in their password. Then it randomly generates a password with the options selected. If an incorrect length of password is chosen the user is presented with an error alert, or if the user doesn't select any of the characters an alert pops up letting them know that they need to select at least one option.
+## Table of Contents
+[Installation](#installation)
 
+[Usage](#usage)
 
---Update--
+[Tests](#tests)
 
-I got the function to generate a single random character, but I couldn't get a function to create a password of the chosen length.
+[Questions](#questions)
 
+[Screenshots](#screenshots)
+  
+## Installation
+npm init -y
+  
+npm i 
+## Usage
+To run the application enter node index.js into the terminal
+## Tests
+node index.js
+## Questions
+
+Deployed Application Link 
+
+GitHub Username: jacobluedke
+
+Link to GitHub: [https://github.com/jacobluedke](https://github.com/jacobluedke)
+## Screenshots
+
+![Screenshot](/Assets/password-gen-ss.png)
 
